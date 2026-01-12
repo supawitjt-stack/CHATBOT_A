@@ -15,5 +15,6 @@ oauth2client
 pprintpp
 pypdf
 PyMuPDF
-pytorch
+torch
+easyocr
 numpy
