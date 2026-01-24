@@ -27,7 +27,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- 2. Custom CSS (GUI Redesign: Vivid, Modern & Friendly) ---
+# Custom CSS (GUI Redesign: Vivid, Modern & Friendly)
 st.markdown("""
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600;800&display=swap');
